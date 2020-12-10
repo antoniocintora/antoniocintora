@@ -4,7 +4,7 @@ Mi nombre es Antonio Cintora y soy estudiante del I.E.S. Pablo Serrano en Zarago
 ## Mis lenguajes
 Actualmente trabajo con 2 lenguajes principales:
 * * *
-+[html]🌐 HTML
++[html]🌐 HTML\s
 +[css]🎨 CSS
 * * *
 [html]: https://es.wikipedia.org/wiki/HTML5
